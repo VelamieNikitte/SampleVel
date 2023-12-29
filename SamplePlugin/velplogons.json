@@ -5,7 +5,6 @@
         "InternalName": "OofPluginTFF",
         "Punchline": "Play the OOF! sound on fall and/or death. The Only Plugin You Need!",
         "Description": "Fork of the OOF! Plugin made by Frogworks-Interactive\n           \nfeatures\n  - oof on party & alliance deaths!\n  - use custom mp3 sounds! \n  - DBO (Distance Based Oof)!\n  - instant access to the hour long documentary on oof by hbomberguy!\n  - fully featured settings window!\n -i missed oof too much so i had to build it\n          ",
-        "InternalName": "OofPluginTFF",
         "AssemblyVersion": "1.2.3",
         "RepoUrl": "https://github.com/Frogworks-Interactive/OOF",
         "ApplicableVersion": "any",
