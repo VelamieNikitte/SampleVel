@@ -24,8 +24,8 @@
             "Obby",
             "Sound"
         ],
-        "DownloadLinkInstall": "https://github.com/VelamieNikitte/SampleVel/blob/master/SamplePlugin/Windows/latest.zip",
-        "DownloadLinkTesting": "https://github.com/VelamieNikitte/SampleVel/blob/master/SamplePlugin/Windows/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/VelamieNikitte/SampleVel/blob/master/SamplePlugin/Windows/latest.zip"
+        "DownloadLinkInstall": "https://github.com/VelamieNikitte/SampleVel/raw/master/SamplePlugin/Windows/latest.zip",
+        "DownloadLinkTesting": "https://github.com/VelamieNikitte/SampleVel/raw/master/SamplePlugin/Windows/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/VelamieNikitte/SampleVel/raw/master/SamplePlugin/Windows/latest.zip"
     }
 ]
