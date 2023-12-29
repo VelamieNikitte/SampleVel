@@ -24,8 +24,8 @@
         "DownloadLinkInstall": "https://github.com/VelamieNikitte/SampleVel/blob/master/SamplePlugin/Windows/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/VelamieNikitte/SampleVel/blob/master/SamplePlugin/Windows/latest.zipp",
-        "DownloadLinkUpdate": "https://github.com/VelamieNikitte/SampleVel/blob/master/SamplePlugin/Windows/latest.zipp",
+        "DownloadLinkTesting": "https://github.com/VelamieNikitte/SampleVel/blob/master/SamplePlugin/Windows/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/VelamieNikitte/SampleVel/blob/master/SamplePlugin/Windows/latest.zip",
         "DownloadCount": 0,
     }
 ]
