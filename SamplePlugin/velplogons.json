@@ -1,13 +1,13 @@
 [
     {
-        "Author": "Frogworks Interactive (build by vel)",
-        "Name": "OOF! (TFF version)",
-        "Description": "Fork of the OOF! Plugin made by Frogworks-Interactive\n           \nfeatures\n  - oof on party & alliance deaths!\n  - use custom mp3 sounds! \n  - DBO (Distance Based Oof)!\n  - instant access to the hour long documentary on oof by hbomberguy!\n  - fully featured settings window!\n -i missed oof too much so i had to build it\n          ",
+        "Author": "Frogworks Interactive (build by Vel)",
+        "Name": "OOF! (TFF)",
+        "Description": "i love roblox!!! \n           \ncraaazzzy features\n  - oof on party & alliance deaths!\n  - use custom mp3 sounds! \n  - DBO� (Distance Based Oof)!\n  - instant access to the hour long documentary on oof by hbomberguy!\n  - fully featured settings window!\n  - i really missed oof so I build it (gitsprout/first time/any tips?)\n          ",
         "InternalName": "OofPluginTFF",
         "AssemblyVersion": "1.2.3",
         "TestingAssemblyVersion": "1.2.3",
         "Punchline": "Play the OOF! sound on fall and/or death. The Only Plugin You Need!",
-        "RepoUrl": "https://github.com/VelamieNikitte/SampleVel",
+        "RepoUrl": "https://github.com/Frogworks-Interactive/OOF",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 9,
         "IsHide": false,
